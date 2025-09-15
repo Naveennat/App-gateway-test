@@ -1,0 +1,26 @@
+2025-09-15 06:26:24,404 - Knowledge - INFO - Redis support added with prefix knowledge:b82995t:
+2025-09-15 06:26:24,636 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-15 06:26:24,723 - Knowledge - INFO - load persisted knowledge: end
+2025-09-15 06:26:24,811 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-15 06:26:24,927 - Knowledge - INFO - load persisted docinfo: end
+2025-09-15 06:26:25,039 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-15 06:26:25,139 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-15 06:26:25,224 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133192/b82995t/App-gateway-test/README.md from ingest queue
+2025-09-15 06:26:25,354 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:25,477 - Knowledge - INFO - Found code-base-name: https://github.com/Naveennat/App-gateway-test.git:main
+2025-09-15 06:26:25,562 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f8696994dd0>
+2025-09-15 06:26:25,676 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:25,848 - Knowledge - INFO - adding /app/data/T0015/133192/b82995t/App-gateway-test/README.md to ingest queue
+2025-09-15 06:26:25,924 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133192/b82995t/App-gateway-test/README.md from ingest queue
+2025-09-15 06:26:26,002 - Knowledge - INFO - Thread kw1 - File README.md - Remaining files in queue: 0
+2025-09-15 06:26:26,109 - Knowledge - INFO - start ingest for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:26,224 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:26,332 - Knowledge - INFO - done fast ingest for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:26,427 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:26,539 - Knowledge - INFO - Found code-base-name: https://github.com/Naveennat/App-gateway-test.git:main
+2025-09-15 06:26:26,619 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f8696994dd0>
+2025-09-15 06:26:26,721 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133192/b82995t/App-gateway-test/README.md
+2025-09-15 06:26:26,885 - Knowledge - INFO - Knowledge creation complete
+2025-09-15 06:26:27,005 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-15 06:26:27,947 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-15 06:26:28,041 - Knowledge - INFO - Knowledge saved to Redis successfully
